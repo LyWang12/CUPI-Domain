@@ -382,7 +382,7 @@ def train():
 
 
     print('original data loaded...')
-    PATH = '/data1/WLY/code/PAMI2/git/model_save/ov/digit/' + SOURCE + '_to_' + TARGET + '.pth'
+    PATH = './model_save/ov/digit/' + SOURCE + '_to_' + TARGET + '.pth'
 
     datafile = Cus_Dataset(mode='train',
                            dataset_1=dataset1, begin_ind1=0, size1=TRAIN_SIZE,
