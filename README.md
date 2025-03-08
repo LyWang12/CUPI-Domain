@@ -7,7 +7,7 @@ Code release for "Say No to Freeloader: Protecting Intellectual Property of Your
 <div align=center><img src="./Figures/1.png" width="100%"></div>
 
 [Say No to Freeloader: Protecting Intellectual Property of Your Deep Model](https://arxiv.org/abs/2408.13161) 
-(PAMI 22024)
+(PAMI 2024)
 
 We propose a Compact Un-transferable Pyramid Isolation Domain (CUPI-Domain) which serves as a barrier against illegal transfers from authorized to unauthorized domains, to protect the intellectual property (IP) of AI models.
 
