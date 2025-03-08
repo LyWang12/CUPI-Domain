@@ -4,7 +4,7 @@ Code release for "Say No to Freeloader: Protecting Intellectual Property of Your
 
 ## Paper
 
-<div align=center><img src="./Figures/1.pdf" width="100%"></div>
+<div align=center><img src="./Figures/1.png" width="100%"></div>
 
 [Say No to Freeloader: Protecting Intellectual Property of Your Deep Model](https://arxiv.org/abs/2408.13161) 
 (PAMI 22024)
